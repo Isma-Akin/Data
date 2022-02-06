@@ -3,7 +3,5 @@
   "lastName": "Thomas",
   "treatId": 22695,
   "treatCourseId": "12",
-  "startDate": "04/06/2021",
-  "category": "Consulation and checkup",
-  "type": "new patient"
+  "startDate": "04/06/2021"
 }
